@@ -1,5 +1,5 @@
 # PRMJUP
-##Preliminary Reference Model of JUPiter 
+## Preliminary Reference Model of JUPiter 
 
 Density model of Jupiter using jupiterdensity.txt.
 
